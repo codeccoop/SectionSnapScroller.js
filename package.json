@@ -1,0 +1,27 @@
+{
+  "name": "section-snap-scroller",
+  "version": "1.0.0",
+  "description": "JS based scroll handler to perform vertical snap scroll on page sections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeccoop/SectionSnapScroller.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/codeccoop/SectionSnapScroller.js/issues"
+  },
+  "homepage": "https://github.com/codeccoop/SectionSnapScroller.js#readme",
+  "devDependencies": {
+    "vite": "^2.8.6"
+  },
+  "dependencies": {
+    "is-mobile": "^3.1.0",
+    "easeer-js": "^1.0.0"
+  }
+}
